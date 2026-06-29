@@ -13,7 +13,7 @@ $ build --target=engineer --stack=cloud,devops,ai
 
 **`Cloud · DevOps · AI/ML Engineer`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashanth-kaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-kaki-4b409a291)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanth49kaki@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5FD3A8?style=for-the-badge&logo=githubpages&logoColor=black)](https://github.com/prashanth-kaki)
 
@@ -33,11 +33,11 @@ focus:       DevOps · MLOps · Cloud Infrastructure · AI Agents
 status:      Open to Internships & Early Grad Roles (2027)
 ```
 
-> Building production-grade systems at the intersection of **Cloud Infrastructure**, **DevOps automation**, and **AI/ML pipelines**. I turn architectural diagrams into deployed, monitored, and cost-optimised reality.
+> I'm a CS undergrad who got tired of manually clicking through AWS consoles and decided to automate everything instead. I build and deploy cloud infrastructure, CI/CD pipelines, and MLOps systems — then monitor them until they stop breaking at 2am.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -46,13 +46,13 @@ status:      Open to Internships & Early Grad Roles (2027)
 ### 🤖 Production MLOps Pipeline
 ![Status](https://img.shields.io/badge/status-DEPLOYED-5FD3A8?style=flat-square)
 
-End-to-end LLM-powered RAG system deployed on AWS EC2.
+Full RAG pipeline with LLMs, deployed and monitored on AWS EC2. Built the whole stack — ingestion, inference, observability.
 
 **Stack:** `LangChain` `FastAPI` `Docker` `AWS EC2` `PostgreSQL` `Prometheus` `Grafana`
 
-- 🔹 40% reduction in avg. inference latency via vector DB caching
-- 🔹 99.2% uptime over 30-day monitoring window
-- 🔹 Full observability: Prometheus metrics + Grafana dashboards
+- 🔹 40% drop in inference latency after adding vector DB caching
+- 🔹 99.2% uptime across a 30-day window
+- 🔹 Prometheus + Grafana dashboards for full visibility
 
 [![Repo](https://img.shields.io/badge/→_Source-161B22?style=flat-square&logo=github)](https://github.com/prashanth-kaki/mlops-pipeline)
 
@@ -62,13 +62,13 @@ End-to-end LLM-powered RAG system deployed on AWS EC2.
 ### 🎙️ Voice-Driven AWS Automation
 ![Status](https://img.shields.io/badge/status-DEPLOYED-5FD3A8?style=flat-square)
 
-Voice-to-cloud-action pipeline — speak a command, trigger AWS.
+Say a command out loud, watch AWS do the thing. Built using Transcribe + Boto3 with proper IAM controls.
 
 **Stack:** `Python` `Boto3` `AWS Transcribe` `EC2` `S3` `IAM` `CloudWatch` `Docker`
 
 - 🔹 ~93% command recognition accuracy
-- 🔹 12 spoken commands → EC2 + S3 operations
-- 🔹 Fixed 8 over-permissioned IAM role configs
+- 🔹 12 voice commands mapped to EC2 + S3 actions
+- 🔹 Cleaned up 8 over-permissioned IAM roles in the process
 
 [![Repo](https://img.shields.io/badge/→_Source-161B22?style=flat-square&logo=github)](https://github.com/prashanth-kaki/voice-driven-aws-automation)
 
@@ -77,29 +77,29 @@ Voice-to-cloud-action pipeline — speak a command, trigger AWS.
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ AWS DevOps Internship @ Technical Hub
+### ☁️ DevOps Intern — Technical Hub Pvt Ltd
 ![Status](https://img.shields.io/badge/status-COMPLETED-8B949E?style=flat-square)
 `May 2025 – Jun 2025`
 
 **Stack:** `Terraform` `Boto3` `Docker` `Jenkins` `GitHub Actions`
 
-- 🔹 82% setup time reduction (45 min → 8 min per environment)
-- 🔹 Provisioned 15+ AWS resources via Terraform + Boto3
-- 🔹 Single-trigger CI/CD pipeline across 3 microservices
+- 🔹 Cut environment setup time from ~45 min to ~8 min using Terraform
+- 🔹 Provisioned and debugged 15+ AWS resources
+- 🔹 Replaced manual deploys with a single-trigger Jenkins pipeline across 3 services
 
 </td>
 <td width="50%" valign="top">
 
-### 🔓 BusKill — Open Source Contribution
+### 🔓 BusKill — Open Source
 ![Status](https://img.shields.io/badge/PR-MERGED-5FD3A8?style=flat-square)
 `Jun 2026`
 
-Security tool — authored the project's **first ever unit test suite**.
+Wrote the project's first ever unit test suite from scratch. Also caught a pytest bug that nobody had filed yet.
 
 **Stack:** `Python` `pytest` `GitHub Actions`
 
-- 🔹 34 tests: platform detection, trigger validation, SHA-256 integrity
-- 🔹 Fixed pytest logging compat bug (`_LiveLoggingNullHandler`) — merged to master
+- 🔹 34 tests covering platform detection, SHA-256 integrity, trigger validation
+- 🔹 Found and reported `_LiveLoggingNullHandler` bug — fix merged to master
 
 [![Repo](https://img.shields.io/badge/→_Repository-161B22?style=flat-square&logo=github)](https://github.com/BusKill/buskill-app)
 
@@ -155,7 +155,7 @@ Security tool — authored the project's **first ever unit test suite**.
 | 🔵 **Google Cloud** | Certified Generative AI Leader | Sep 2028 |
 | 🔴 **Oracle** | OCI Foundations Associate | Aug 2027 |
 | 🌟 **Google** | Student Ambassador — Selected | 2026 |
-| 🎨 **Adobe** | India Hackathon 2025 — Advanced to Round 2 | — |
+| 🎨 **Adobe** | India Hackathon 2025 — Round 2 | — |
 
 ---
 
