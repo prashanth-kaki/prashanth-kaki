@@ -163,8 +163,8 @@ Wrote the project's first ever unit test suite from scratch. Also caught a pytes
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashanth-kaki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0E1116&title_color=5FD3A8&icon_color=5FD3A8&text_color=E6EDF3" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-kaki&layout=compact&theme=github_dark&hide_border=true&bg_color=0E1116&title_color=5FD3A8&text_color=E6EDF3" height="160"/>
+<img src="https://streak-stats.demolab.com?user=prashanth-kaki&theme=github-dark-blue&hide_border=true&background=0E1116&ring=5FD3A8&fire=5FD3A8&currStreakLabel=5FD3A8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-kaki&layout=compact&theme=github_dark&hide_border=true&bg_color=0E1116&title_color=5FD3A8&text_color=E6EDF3&cache_seconds=1800" height="160"/>
 
 </div>
 
