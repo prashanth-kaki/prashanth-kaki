@@ -74,38 +74,42 @@ Say a command out loud, watch AWS do the thing. Built using Transcribe + Boto3 w
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ DevOps Intern — Technical Hub Pvt Ltd
-![Status](https://img.shields.io/badge/status-COMPLETED-8B949E?style=flat-square)
-`May 2025 – Jun 2025`
-
-**Stack:** `Terraform` `Boto3` `Docker` `Jenkins` `GitHub Actions`
-
-- 🔹 Cut environment setup time from ~45 min to ~8 min using Terraform
-- 🔹 Provisioned and debugged 15+ AWS resources
-- 🔹 Replaced manual deploys with a single-trigger Jenkins pipeline across 3 services
-
-</td>
-<td width="50%" valign="top">
-
-### 🔓 BusKill — Open Source
-![Status](https://img.shields.io/badge/PR-MERGED-5FD3A8?style=flat-square)
-`Jun 2026`
-
-Wrote the project's first ever unit test suite from scratch. Also caught a pytest bug that nobody had filed yet.
-
-**Stack:** `Python` `pytest` `GitHub Actions`
-
-- 🔹 34 tests covering platform detection, SHA-256 integrity, trigger validation
-- 🔹 Found and reported `_LiveLoggingNullHandler` bug — fix merged to master
-
-[![Repo](https://img.shields.io/badge/→_Repository-161B22?style=flat-square&logo=github)](https://github.com/BusKill/buskill-app)
-
-</td>
 </tr>
 </table>
+
+---
+
+## 💼 Experience
+
+**☁️ DevOps Engineer Intern — Technical Hub Pvt Ltd**
+`May 2025 – Jun 2025` · Hyderabad, India
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- 🔹 Cut environment setup time from ~45 min to ~8 min by writing Terraform modules from scratch
+- 🔹 Provisioned and debugged 15+ AWS resources across EC2, S3, IAM, and VPC
+- 🔹 Replaced manual deploys with a single-trigger Jenkins pipeline covering 3 microservices
+
+---
+
+## 🌍 Open Source
+
+**🔓 BusKill** — [buskill/buskill-app](https://github.com/BusKill/buskill-app)
+`Jun 2026` · ![PR](https://img.shields.io/badge/PR-MERGED-5FD3A8?style=flat-square)
+
+BusKill is a security tool that wipes/locks your machine if someone yanks your USB cable. I wrote their first ever automated test suite and caught a bug nobody had reported.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- 🔹 34 tests covering platform detection, SHA-256 integrity checks, and trigger validation
+- 🔹 Identified and fixed `_LiveLoggingNullHandler` pytest compat bug — merged to master
+- 🔹 Issue [#131](https://github.com/BusKill/buskill-app/issues/131)
 
 ---
 
